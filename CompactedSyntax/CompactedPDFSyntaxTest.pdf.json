@@ -43,7 +43,7 @@
         {
           "Key": "StructTreeRoot",
           "Value": {
-            "Type": "Null"
+            "Type": "null"
           }
         },
         {
@@ -145,7 +145,7 @@
               },
               {
                 "Value": {
-                  "Type": "Null"
+                  "Type": "null"
                 }
               },
               {
@@ -156,7 +156,7 @@
               },
               {
                 "Value": {
-                  "Type": "Null"
+                  "Type": "null"
                 }
               },
               {
@@ -208,7 +208,7 @@
                     },
                     {
                       "Value": {
-                        "Type": "Null"
+                        "Type": "null"
                       }
                     },
                     {
@@ -279,7 +279,7 @@
               },
               {
                 "Value": {
-                  "Type": "Null"
+                  "Type": "null"
                 }
               },
               {
@@ -295,7 +295,7 @@
                     {
                       "Key": "DEF",
                       "Value": {
-                        "Type": "Null"
+                        "Type": "null"
                       }
                     }
                   ]
@@ -527,7 +527,7 @@
               },
               {
                 "Value": {
-                  "Type": "Null"
+                  "Type": "null"
                 }
               },
               {
@@ -722,7 +722,7 @@
         {
           "Key": "Annots",
           "Value": {
-            "Type": "Null"
+            "Type": "null"
           }
         },
         {
@@ -744,7 +744,7 @@
                   "Value": [
                     {
                       "Value": {
-                        "Type": "Null"
+                        "Type": "null"
                       }
                     }
                   ]
@@ -890,7 +890,7 @@
                       },
                       {
                         "Value": {
-                          "Type": "Null"
+                          "Type": "null"
                         }
                       },
                       {
@@ -901,7 +901,7 @@
                       },
                       {
                         "Value": {
-                          "Type": "Null"
+                          "Type": "null"
                         }
                       },
                       {
@@ -953,7 +953,7 @@
                             },
                             {
                               "Value": {
-                                "Type": "Null"
+                                "Type": "null"
                               }
                             },
                             {
@@ -1024,7 +1024,7 @@
                       },
                       {
                         "Value": {
-                          "Type": "Null"
+                          "Type": "null"
                         }
                       },
                       {
@@ -1040,7 +1040,7 @@
                             {
                               "Key": "DEF",
                               "Value": {
-                                "Type": "Null"
+                                "Type": "null"
                               }
                             }
                           ]
@@ -1227,7 +1227,7 @@
                       },
                       {
                         "Value": {
-                          "Type": "Null"
+                          "Type": "null"
                         }
                       },
                       {
