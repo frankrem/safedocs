@@ -1,73 +1,73 @@
 [
   {
-    "IndirectObjectNumber": 1,
-    "IndirectObject": {
-      "Type": "Dictionary",
-      "Value": [
+    "indirectobjectnumber": 1,
+    "indirectobject": {
+      "type": "dictionary",
+      "value": [
         {
-          "Key": "Type",
-          "Value": {
-            "Type": "Name",
-            "Value": "Catalog"
+          "key": "Type",
+          "value": {
+            "type": "name",
+            "value": "Catalog"
           }
         },
         {
-          "Key": "MarkInfo",
-          "Value": {
-            "Type": "Dictionary",
-            "Value": [
+          "key": "MarkInfo",
+          "value": {
+            "type": "dictionary",
+            "value": [
               {
-                "Key": "Marked",
-                "Value": {
-                  "Type": "Boolean",
-                  "Value": true
+                "key": "Marked",
+                "value": {
+                  "type": "boolean",
+                  "value": true
                 }
               },
               {
-                "Key": "Suspects",
-                "Value": {
-                  "Type": "Boolean",
-                  "Value": true
+                "key": "Suspects",
+                "value": {
+                  "type": "boolean",
+                  "value": true
                 }
               },
               {
-                "Key": "UserProperties",
-                "Value": {
-                  "Type": "Boolean",
-                  "Value": true
+                "key": "UserProperties",
+                "value": {
+                  "type": "boolean",
+                  "value": true
                 }
               }
             ]
           }
         },
         {
-          "Key": "StructTreeRoot",
-          "Value": {
-            "Type": "null"
+          "key": "StructTreeRoot",
+          "value": {
+            "type": "null"
           }
         },
         {
-          "Key": "AA",
-          "Value": {
-            "Type": "Dictionary",
-            "Value": [
+          "key": "AA",
+          "value": {
+            "type": "dictionary",
+            "value": [
               {
-                "Key": "WP",
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "key": "WP",
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "S",
-                      "Value": {
-                        "Type": "Name",
-                        "Value": "JavaScript"
+                      "key": "S",
+                      "value": {
+                        "type": "name",
+                        "value": "JavaScript"
                       }
                     },
                     {
-                      "Key": "JS",
-                      "Value": {
-                        "Type": "LiteralString",
-                        "Value": "//JavaScript comment\napp.alert( \"Document Will Print Action!!\")"
+                      "key": "JS",
+                      "value": {
+                        "type": "literalstring",
+                        "value": "//JavaScript comment\napp.alert( \"Document Will Print Action!!\")"
                       }
                     }
                   ]
@@ -77,12 +77,12 @@
           }
         },
         {
-          "Key": "Pages",
-          "Value": {
-            "Type": "IndirectReference",
-            "Value": {
-              "ObjectNumber": 3,
-              "GenerationNumber": 0
+          "key": "Pages",
+          "value": {
+            "type": "indirectreference",
+            "value": {
+              "objectnumber": 3,
+              "generationnumber": 0
             }
           }
         }
@@ -90,39 +90,39 @@
     }
   },
   {
-    "IndirectObjectNumber": 2,
-    "IndirectObject": {
-      "Type": "Object"
+    "indirectobjectnumber": 2,
+    "indirectobject": {
+      "type": "object"
     }
   },
   {
-    "IndirectObjectNumber": 3,
-    "IndirectObject": {
-      "Type": "Dictionary",
-      "Value": [
+    "indirectobjectnumber": 3,
+    "indirectobject": {
+      "type": "dictionary",
+      "value": [
         {
-          "Key": "FakeBigDataArray",
-          "Value": {
-            "Type": "Array",
-            "Value": [
+          "key": "FakeBigDataArray",
+          "value": {
+            "type": "array",
+            "value": [
               {
-                "Value": {
-                  "Type": "Boolean",
-                  "Value": true
+                "value": {
+                  "type": "boolean",
+                  "value": true
                 }
               },
               {
-                "Value": {
-                  "Type": "Array",
-                  "Value": [
+                "value": {
+                  "type": "array",
+                  "value": [
                     {
-                      "Value": {
-                        "Type": "Array",
-                        "Value": [
+                      "value": {
+                        "type": "array",
+                        "value": [
                           {
-                            "Value": {
-                              "Type": "Array",
-                              "Value": []
+                            "value": {
+                              "type": "array",
+                              "value": []
                             }
                           }
                         ]
@@ -132,208 +132,208 @@
                 }
               },
               {
-                "Value": {
-                  "Type": "Boolean",
-                  "Value": true
+                "value": {
+                  "type": "boolean",
+                  "value": true
                 }
               },
               {
-                "Value": {
-                  "Type": "HexString",
-                  "Value": "<686931>"
+                "value": {
+                  "type": "hexstring",
+                  "value": "<686931>"
                 }
               },
               {
-                "Value": {
-                  "Type": "null"
+                "value": {
+                  "type": "null"
                 }
               },
               {
-                "Value": {
-                  "Type": "HexString",
-                  "Value": "<686932>"
+                "value": {
+                  "type": "hexstring",
+                  "value": "<686932>"
                 }
               },
               {
-                "Value": {
-                  "Type": "null"
+                "value": {
+                  "type": "null"
                 }
               },
               {
-                "Value": {
-                  "Type": "Array",
-                  "Value": [
+                "value": {
+                  "type": "array",
+                  "value": [
                     {
-                      "Value": {
-                        "Type": "Name",
-                        "Value": "Dummy"
+                      "value": {
+                        "type": "name",
+                        "value": "Dummy"
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "LiteralString",
-                  "Value": "hi3"
+                "value": {
+                  "type": "literalstring",
+                  "value": "hi3"
                 }
               },
               {
-                "Value": {
-                  "Type": "Array",
-                  "Value": [
+                "value": {
+                  "type": "array",
+                  "value": [
                     {
-                      "Value": {
-                        "Type": "LiteralString",
-                        "Value": "hi4"
+                      "value": {
+                        "type": "literalstring",
+                        "value": "hi4"
                       }
                     },
                     {
-                      "Value": {
-                        "Type": "LiteralString",
-                        "Value": "hi5"
+                      "value": {
+                        "type": "literalstring",
+                        "value": "hi5"
                       }
                     },
                     {
-                      "Value": {
-                        "Type": "Boolean",
-                        "Value": true
+                      "value": {
+                        "type": "boolean",
+                        "value": true
                       }
                     },
                     {
-                      "Value": {
-                        "Type": "LiteralString",
-                        "Value": "hi6"
+                      "value": {
+                        "type": "literalstring",
+                        "value": "hi6"
                       }
                     },
                     {
-                      "Value": {
-                        "Type": "null"
+                      "value": {
+                        "type": "null"
                       }
                     },
                     {
-                      "Value": {
-                        "Type": "LiteralString",
-                        "Value": "hi7"
+                      "value": {
+                        "type": "literalstring",
+                        "value": "hi7"
                       }
                     },
                     {
-                      "Value": {
-                        "Type": "Integer",
-                        "Value": 12
+                      "value": {
+                        "type": "integer",
+                        "value": 12
                       }
                     },
                     {
-                      "Value": {
-                        "Type": "LiteralString",
-                        "Value": "hi8"
+                      "value": {
+                        "type": "literalstring",
+                        "value": "hi8"
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "Real",
-                  "Value": -1.0
+                "value": {
+                  "type": "real",
+                  "value": -1.0
                 }
               },
               {
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "ABC",
-                      "Value": {
-                        "Type": "Real",
-                        "Value": 0.123
+                      "key": "ABC",
+                      "value": {
+                        "type": "real",
+                        "value": 0.123
                       }
                     },
                     {
-                      "Key": "DEF",
-                      "Value": {
-                        "Type": "Real",
-                        "Value": 0.0
+                      "key": "DEF",
+                      "value": {
+                        "type": "real",
+                        "value": 0.0
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "Array",
-                  "Value": []
+                "value": {
+                  "type": "array",
+                  "value": []
                 }
               },
               {
-                "Value": {
-                  "Type": "LiteralString",
-                  "Value": "hi99"
+                "value": {
+                  "type": "literalstring",
+                  "value": "hi99"
                 }
               },
               {
-                "Value": {
-                  "Type": "Array",
-                  "Value": []
+                "value": {
+                  "type": "array",
+                  "value": []
                 }
               },
               {
-                "Value": {
-                  "Type": "null"
+                "value": {
+                  "type": "null"
                 }
               },
               {
-                "Value": {
-                  "Type": "Array",
-                  "Value": []
+                "value": {
+                  "type": "array",
+                  "value": []
                 }
               },
               {
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "DEF",
-                      "Value": {
-                        "Type": "null"
+                      "key": "DEF",
+                      "value": {
+                        "type": "null"
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "Boolean",
-                  "Value": true
+                "value": {
+                  "type": "boolean",
+                  "value": true
                 }
               },
               {
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "GHI",
-                      "Value": {
-                        "Type": "Name",
-                        "Value": "JKL"
+                      "key": "GHI",
+                      "value": {
+                        "type": "name",
+                        "value": "JKL"
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "Array",
-                  "Value": [
+                "value": {
+                  "type": "array",
+                  "value": [
                     {
-                      "Value": {
-                        "Type": "Dictionary",
-                        "Value": [
+                      "value": {
+                        "type": "dictionary",
+                        "value": [
                           {
-                            "Key": "MNO",
-                            "Value": {
-                              "Type": "Real",
-                              "Value": 0.0
+                            "key": "MNO",
+                            "value": {
+                              "type": "real",
+                              "value": 0.0
                             }
                           }
                         ]
@@ -343,263 +343,263 @@
                 }
               },
               {
-                "Value": {
-                  "Type": "HexString",
-                  "Value": "<686933>"
+                "value": {
+                  "type": "hexstring",
+                  "value": "<686933>"
                 }
               },
               {
-                "Value": {
-                  "Type": "IndirectReference",
-                  "Value": {
-                    "ObjectNumber": 1,
-                    "GenerationNumber": 0
+                "value": {
+                  "type": "indirectreference",
+                  "value": {
+                    "objectnumber": 1,
+                    "generationnumber": 0
                   }
                 }
               },
               {
-                "Value": {
-                  "Type": "Array",
-                  "Value": [
+                "value": {
+                  "type": "array",
+                  "value": [
                     {
-                      "Value": {
-                        "Type": "Integer",
-                        "Value": 1
+                      "value": {
+                        "type": "integer",
+                        "value": 1
                       }
                     },
                     {
-                      "Value": {
-                        "Type": "Integer",
-                        "Value": 2
+                      "value": {
+                        "type": "integer",
+                        "value": 2
                       }
                     },
                     {
-                      "Value": {
-                        "Type": "Integer",
-                        "Value": 3
+                      "value": {
+                        "type": "integer",
+                        "value": 3
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "IndirectReference",
-                  "Value": {
-                    "ObjectNumber": 6,
-                    "GenerationNumber": 0
+                "value": {
+                  "type": "indirectreference",
+                  "value": {
+                    "objectnumber": 6,
+                    "generationnumber": 0
                   }
                 }
               },
               {
-                "Value": {
-                  "Type": "HexString",
-                  "Value": "<686934>"
+                "value": {
+                  "type": "hexstring",
+                  "value": "<686934>"
                 }
               },
               {
-                "Value": {
-                  "Type": "IndirectReference",
-                  "Value": {
-                    "ObjectNumber": 4,
-                    "GenerationNumber": 0
+                "value": {
+                  "type": "indirectreference",
+                  "value": {
+                    "objectnumber": 4,
+                    "generationnumber": 0
                   }
                 }
               },
               {
-                "Value": {
-                  "Type": "LiteralString",
-                  "Value": "hi9"
+                "value": {
+                  "type": "literalstring",
+                  "value": "hi9"
                 }
               },
               {
-                "Value": {
-                  "Type": "IndirectReference",
-                  "Value": {
-                    "ObjectNumber": 2,
-                    "GenerationNumber": 0
+                "value": {
+                  "type": "indirectreference",
+                  "value": {
+                    "objectnumber": 2,
+                    "generationnumber": 0
                   }
                 }
               },
               {
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "QRS",
-                      "Value": {
-                        "Type": "Boolean",
-                        "Value": true
+                      "key": "QRS",
+                      "value": {
+                        "type": "boolean",
+                        "value": true
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "Array",
-                  "Value": [
+                "value": {
+                  "type": "array",
+                  "value": [
                     {
-                      "Value": {
-                        "Type": "Boolean",
-                        "Value": true
+                      "value": {
+                        "type": "boolean",
+                        "value": true
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "TUV",
-                      "Value": {
-                        "Type": "Boolean",
-                        "Value": true
+                      "key": "TUV",
+                      "value": {
+                        "type": "boolean",
+                        "value": true
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "HexString",
-                  "Value": "<686935>"
+                "value": {
+                  "type": "hexstring",
+                  "value": "<686935>"
                 }
               },
               {
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "XYZ",
-                      "Value": {
-                        "Type": "Boolean",
-                        "Value": true
+                      "key": "XYZ",
+                      "value": {
+                        "type": "boolean",
+                        "value": true
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "IndirectReference",
-                  "Value": {
-                    "ObjectNumber": 3,
-                    "GenerationNumber": 0
+                "value": {
+                  "type": "indirectreference",
+                  "value": {
+                    "objectnumber": 3,
+                    "generationnumber": 0
                   }
                 }
               },
               {
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "AAB",
-                      "Value": {
-                        "Type": "Boolean",
-                        "Value": true
+                      "key": "AAB",
+                      "value": {
+                        "type": "boolean",
+                        "value": true
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "LiteralString",
-                  "Value": "hi10"
+                "value": {
+                  "type": "literalstring",
+                  "value": "hi10"
                 }
               },
               {
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "AAC",
-                      "Value": {
-                        "Type": "Boolean",
-                        "Value": true
+                      "key": "AAC",
+                      "value": {
+                        "type": "boolean",
+                        "value": true
                       }
                     }
                   ]
                 }
               },
               {
-                "Value": {
-                  "Type": "null"
+                "value": {
+                  "type": "null"
                 }
               },
               {
-                "Value": {
-                  "Type": "HexString",
-                  "Value": "<686936>"
+                "value": {
+                  "type": "hexstring",
+                  "value": "<686936>"
                 }
               },
               {
-                "Value": {
-                  "Type": "Boolean",
-                  "Value": true
+                "value": {
+                  "type": "boolean",
+                  "value": true
                 }
               },
               {
-                "Value": {
-                  "Type": "LiteralString",
-                  "Value": "hi11"
+                "value": {
+                  "type": "literalstring",
+                  "value": "hi11"
                 }
               },
               {
-                "Value": {
-                  "Type": "HexString",
-                  "Value": "<686937>"
+                "value": {
+                  "type": "hexstring",
+                  "value": "<686937>"
                 }
               },
               {
-                "Value": {
-                  "Type": "LiteralString",
-                  "Value": "hi12"
+                "value": {
+                  "type": "literalstring",
+                  "value": "hi12"
                 }
               },
               {
-                "Value": {
-                  "Type": "Real",
-                  "Value": 0.0
+                "value": {
+                  "type": "real",
+                  "value": 0.0
                 }
               },
               {
-                "Value": {
-                  "Type": "HexString",
-                  "Value": "<686938>"
+                "value": {
+                  "type": "hexstring",
+                  "value": "<686938>"
                 }
               }
             ]
           }
         },
         {
-          "Key": "Type",
-          "Value": {
-            "Type": "Name",
-            "Value": "Pages"
+          "key": "Type",
+          "value": {
+            "type": "name",
+            "value": "Pages"
           }
         },
         {
-          "Key": "Count",
-          "Value": {
-            "Type": "Integer",
-            "Value": 1
+          "key": "Count",
+          "value": {
+            "type": "integer",
+            "value": 1
           }
         },
         {
-          "Key": "Kids",
-          "Value": {
-            "Type": "Array",
-            "Value": [
+          "key": "Kids",
+          "value": {
+            "type": "array",
+            "value": [
               {
-                "Value": {
-                  "Type": "IndirectReference",
-                  "Value": {
-                    "ObjectNumber": 4,
-                    "GenerationNumber": 0
+                "value": {
+                  "type": "indirectreference",
+                  "value": {
+                    "objectnumber": 4,
+                    "generationnumber": 0
                   }
                 }
               }
@@ -610,102 +610,102 @@
     }
   },
   {
-    "IndirectObjectNumber": 4,
-    "IndirectObject": {
-      "Type": "Dictionary",
-      "Value": [
+    "indirectobjectnumber": 4,
+    "indirectobject": {
+      "type": "dictionary",
+      "value": [
         {
-          "Key": "Type",
-          "Value": {
-            "Type": "Name",
-            "Value": "Page"
+          "key": "Type",
+          "value": {
+            "type": "name",
+            "value": "Page"
           }
         },
         {
-          "Key": "Parent",
-          "Value": {
-            "Type": "IndirectReference",
-            "Value": {
-              "ObjectNumber": 3,
-              "GenerationNumber": 0
+          "key": "Parent",
+          "value": {
+            "type": "indirectreference",
+            "value": {
+              "objectnumber": 3,
+              "generationnumber": 0
             }
           }
         },
         {
-          "Key": "MediaBox",
-          "Value": {
-            "Type": "Array",
-            "Value": [
+          "key": "MediaBox",
+          "value": {
+            "type": "array",
+            "value": [
               {
-                "Value": {
-                  "Type": "Integer",
-                  "Value": 0
+                "value": {
+                  "type": "integer",
+                  "value": 0
                 }
               },
               {
-                "Value": {
-                  "Type": "Real",
-                  "Value": 0.0
+                "value": {
+                  "type": "real",
+                  "value": 0.0
                 }
               },
               {
-                "Value": {
-                  "Type": "Integer",
-                  "Value": 999
+                "value": {
+                  "type": "integer",
+                  "value": 999
                 }
               },
               {
-                "Value": {
-                  "Type": "Real",
-                  "Value": 999.0
+                "value": {
+                  "type": "real",
+                  "value": 999.0
                 }
               }
             ]
           }
         },
         {
-          "Key": "CropBox",
-          "Value": {
-            "Type": "Array",
-            "Value": [
+          "key": "CropBox",
+          "value": {
+            "type": "array",
+            "value": [
               {
-                "Value": {
-                  "Type": "Integer",
-                  "Value": 0
+                "value": {
+                  "type": "integer",
+                  "value": 0
                 }
               },
               {
-                "Value": {
-                  "Type": "Real",
-                  "Value": 0.0
+                "value": {
+                  "type": "real",
+                  "value": 0.0
                 }
               },
               {
-                "Value": {
-                  "Type": "Integer",
-                  "Value": 999
+                "value": {
+                  "type": "integer",
+                  "value": 999
                 }
               },
               {
-                "Value": {
-                  "Type": "Real",
-                  "Value": 999.0
+                "value": {
+                  "type": "real",
+                  "value": 999.0
                 }
               }
             ]
           }
         },
         {
-          "Key": "Contents",
-          "Value": {
-            "Type": "Array",
-            "Value": [
+          "key": "Contents",
+          "value": {
+            "type": "array",
+            "value": [
               {
-                "Value": {
-                  "Type": "IndirectReference",
-                  "Value": {
-                    "ObjectNumber": 5,
-                    "GenerationNumber": 0
+                "value": {
+                  "type": "indirectreference",
+                  "value": {
+                    "objectnumber": 5,
+                    "generationnumber": 0
                   }
                 }
               }
@@ -713,55 +713,55 @@
           }
         },
         {
-          "Key": "UserUnit",
-          "Value": {
-            "Type": "Real",
-            "Value": 0.88
+          "key": "UserUnit",
+          "value": {
+            "type": "real",
+            "value": 0.88
           }
         },
         {
-          "Key": "Annots",
-          "Value": {
-            "Type": "null"
+          "key": "Annots",
+          "value": {
+            "type": "null"
           }
         },
         {
-          "Key": "Resources",
-          "Value": {
-            "Type": "Dictionary",
-            "Value": [
+          "key": "Resources",
+          "value": {
+            "type": "dictionary",
+            "value": [
               {
-                "Key": "Pattern",
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": []
+                "key": "Pattern",
+                "value": {
+                  "type": "dictionary",
+                  "value": []
                 }
               },
               {
-                "Key": "ProcSet",
-                "Value": {
-                  "Type": "Array",
-                  "Value": [
+                "key": "ProcSet",
+                "value": {
+                  "type": "array",
+                  "value": [
                     {
-                      "Value": {
-                        "Type": "null"
+                      "value": {
+                        "type": "null"
                       }
                     }
                   ]
                 }
               },
               {
-                "Key": "ExtGState",
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "key": "ExtGState",
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "",
-                      "Value": {
-                        "Type": "IndirectReference",
-                        "Value": {
-                          "ObjectNumber": 6,
-                          "GenerationNumber": 0
+                      "key": "",
+                      "value": {
+                        "type": "indirectreference",
+                        "value": {
+                          "objectnumber": 6,
+                          "generationnumber": 0
                         }
                       }
                     }
@@ -769,41 +769,41 @@
                 }
               },
               {
-                "Key": "Font",
-                "Value": {
-                  "Type": "Dictionary",
-                  "Value": [
+                "key": "Font",
+                "value": {
+                  "type": "dictionary",
+                  "value": [
                     {
-                      "Key": "F1",
-                      "Value": {
-                        "Type": "Dictionary",
-                        "Value": [
+                      "key": "F1",
+                      "value": {
+                        "type": "dictionary",
+                        "value": [
                           {
-                            "Key": "Type",
-                            "Value": {
-                              "Type": "Name",
-                              "Value": "Font"
+                            "key": "Type",
+                            "value": {
+                              "type": "name",
+                              "value": "Font"
                             }
                           },
                           {
-                            "Key": "Subtype",
-                            "Value": {
-                              "Type": "Name",
-                              "Value": "Type1"
+                            "key": "Subtype",
+                            "value": {
+                              "type": "name",
+                              "value": "Type1"
                             }
                           },
                           {
-                            "Key": "BaseFont",
-                            "Value": {
-                              "Type": "Name",
-                              "Value": "Times-Bold"
+                            "key": "BaseFont",
+                            "value": {
+                              "type": "name",
+                              "value": "Times-Bold"
                             }
                           },
                           {
-                            "Key": "Encoding",
-                            "Value": {
-                              "Type": "Name",
-                              "Value": "WinAnsiEncoding"
+                            "key": "Encoding",
+                            "value": {
+                              "type": "name",
+                              "value": "WinAnsiEncoding"
                             }
                           }
                         ]
@@ -819,55 +819,55 @@
     }
   },
   {
-    "IndirectObjectNumber": 5,
-    "IndirectObject": {
-      "Type": "Content",
-      "Dictionary": {
-        "Type": "StreamDictionary",
-        "Value": [
+    "indirectobjectnumber": 5,
+    "indirectobject": {
+      "type": "content",
+      "dictionary": {
+        "type": "streamdictionary",
+        "value": [
           {
-            "Key": "Length",
-            "Value": {
-              "Type": "Integer",
-              "Value": 809
+            "key": "Length",
+            "value": {
+              "type": "integer",
+              "value": 809
             }
           }
         ]
       },
-      "Value": [
+      "value": [
         {
-          "Operator": "DP",
-          "Operands": [
+          "operator": "DP",
+          "operands": [
             {
-              "Type": "Name",
-              "Value": "BreakMyParser"
+              "type": "name",
+              "value": "BreakMyParser"
             },
             {
-              "Type": "Dictionary",
-              "Value": [
+              "type": "dictionary",
+              "value": [
                 {
-                  "Key": "FakeBigDataArray",
-                  "Value": {
-                    "Type": "Array",
-                    "Value": [
+                  "key": "FakeBigDataArray",
+                  "value": {
+                    "type": "array",
+                    "value": [
                       {
-                        "Value": {
-                          "Type": "Boolean",
-                          "Value": true
+                        "value": {
+                          "type": "boolean",
+                          "value": true
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Array",
-                          "Value": [
+                        "value": {
+                          "type": "array",
+                          "value": [
                             {
-                              "Value": {
-                                "Type": "Array",
-                                "Value": [
+                              "value": {
+                                "type": "array",
+                                "value": [
                                   {
-                                    "Value": {
-                                      "Type": "Array",
-                                      "Value": []
+                                    "value": {
+                                      "type": "array",
+                                      "value": []
                                     }
                                   }
                                 ]
@@ -877,208 +877,208 @@
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Boolean",
-                          "Value": true
+                        "value": {
+                          "type": "boolean",
+                          "value": true
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "HexString",
-                          "Value": "<686931>"
+                        "value": {
+                          "type": "hexstring",
+                          "value": "<686931>"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "null"
+                        "value": {
+                          "type": "null"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "HexString",
-                          "Value": "<686932>"
+                        "value": {
+                          "type": "hexstring",
+                          "value": "<686932>"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "null"
+                        "value": {
+                          "type": "null"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Array",
-                          "Value": [
+                        "value": {
+                          "type": "array",
+                          "value": [
                             {
-                              "Value": {
-                                "Type": "Name",
-                                "Value": "Dummy"
+                              "value": {
+                                "type": "name",
+                                "value": "Dummy"
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "LiteralString",
-                          "Value": "hi3"
+                        "value": {
+                          "type": "literalstring",
+                          "value": "hi3"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Array",
-                          "Value": [
+                        "value": {
+                          "type": "array",
+                          "value": [
                             {
-                              "Value": {
-                                "Type": "LiteralString",
-                                "Value": "hi4"
+                              "value": {
+                                "type": "literalstring",
+                                "value": "hi4"
                               }
                             },
                             {
-                              "Value": {
-                                "Type": "LiteralString",
-                                "Value": "hi5"
+                              "value": {
+                                "type": "literalstring",
+                                "value": "hi5"
                               }
                             },
                             {
-                              "Value": {
-                                "Type": "Boolean",
-                                "Value": true
+                              "value": {
+                                "type": "boolean",
+                                "value": true
                               }
                             },
                             {
-                              "Value": {
-                                "Type": "LiteralString",
-                                "Value": "hi6"
+                              "value": {
+                                "type": "literalstring",
+                                "value": "hi6"
                               }
                             },
                             {
-                              "Value": {
-                                "Type": "null"
+                              "value": {
+                                "type": "null"
                               }
                             },
                             {
-                              "Value": {
-                                "Type": "LiteralString",
-                                "Value": "hi7"
+                              "value": {
+                                "type": "literalstring",
+                                "value": "hi7"
                               }
                             },
                             {
-                              "Value": {
-                                "Type": "Integer",
-                                "Value": 12
+                              "value": {
+                                "type": "integer",
+                                "value": 12
                               }
                             },
                             {
-                              "Value": {
-                                "Type": "LiteralString",
-                                "Value": "hi8"
+                              "value": {
+                                "type": "literalstring",
+                                "value": "hi8"
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Real",
-                          "Value": -1.0
+                        "value": {
+                          "type": "real",
+                          "value": -1.0
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Dictionary",
-                          "Value": [
+                        "value": {
+                          "type": "dictionary",
+                          "value": [
                             {
-                              "Key": "ABC",
-                              "Value": {
-                                "Type": "Real",
-                                "Value": 0.123
+                              "key": "ABC",
+                              "value": {
+                                "type": "real",
+                                "value": 0.123
                               }
                             },
                             {
-                              "Key": "DEF",
-                              "Value": {
-                                "Type": "Real",
-                                "Value": 0.0
+                              "key": "DEF",
+                              "value": {
+                                "type": "real",
+                                "value": 0.0
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Array",
-                          "Value": []
+                        "value": {
+                          "type": "array",
+                          "value": []
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "LiteralString",
-                          "Value": "hi99"
+                        "value": {
+                          "type": "literalstring",
+                          "value": "hi99"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Array",
-                          "Value": []
+                        "value": {
+                          "type": "array",
+                          "value": []
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "null"
+                        "value": {
+                          "type": "null"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Array",
-                          "Value": []
+                        "value": {
+                          "type": "array",
+                          "value": []
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Dictionary",
-                          "Value": [
+                        "value": {
+                          "type": "dictionary",
+                          "value": [
                             {
-                              "Key": "DEF",
-                              "Value": {
-                                "Type": "null"
+                              "key": "DEF",
+                              "value": {
+                                "type": "null"
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Boolean",
-                          "Value": true
+                        "value": {
+                          "type": "boolean",
+                          "value": true
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Dictionary",
-                          "Value": [
+                        "value": {
+                          "type": "dictionary",
+                          "value": [
                             {
-                              "Key": "GHI",
-                              "Value": {
-                                "Type": "Name",
-                                "Value": "JKL"
+                              "key": "GHI",
+                              "value": {
+                                "type": "name",
+                                "value": "JKL"
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Array",
-                          "Value": [
+                        "value": {
+                          "type": "array",
+                          "value": [
                             {
-                              "Value": {
-                                "Type": "Dictionary",
-                                "Value": [
+                              "value": {
+                                "type": "dictionary",
+                                "value": [
                                   {
-                                    "Key": "MNO",
-                                    "Value": {
-                                      "Type": "Real",
-                                      "Value": 0.0
+                                    "key": "MNO",
+                                    "value": {
+                                      "type": "real",
+                                      "value": 0.0
                                     }
                                   }
                                 ]
@@ -1088,188 +1088,188 @@
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "HexString",
-                          "Value": "<686933>"
+                        "value": {
+                          "type": "hexstring",
+                          "value": "<686933>"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Array",
-                          "Value": [
+                        "value": {
+                          "type": "array",
+                          "value": [
                             {
-                              "Value": {
-                                "Type": "Integer",
-                                "Value": 1
+                              "value": {
+                                "type": "integer",
+                                "value": 1
                               }
                             },
                             {
-                              "Value": {
-                                "Type": "Integer",
-                                "Value": 2
+                              "value": {
+                                "type": "integer",
+                                "value": 2
                               }
                             },
                             {
-                              "Value": {
-                                "Type": "Integer",
-                                "Value": 3
+                              "value": {
+                                "type": "integer",
+                                "value": 3
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "HexString",
-                          "Value": "<686934>"
+                        "value": {
+                          "type": "hexstring",
+                          "value": "<686934>"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "LiteralString",
-                          "Value": "hi9"
+                        "value": {
+                          "type": "literalstring",
+                          "value": "hi9"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Dictionary",
-                          "Value": [
+                        "value": {
+                          "type": "dictionary",
+                          "value": [
                             {
-                              "Key": "QRS",
-                              "Value": {
-                                "Type": "Boolean",
-                                "Value": true
+                              "key": "QRS",
+                              "value": {
+                                "type": "boolean",
+                                "value": true
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Array",
-                          "Value": [
+                        "value": {
+                          "type": "array",
+                          "value": [
                             {
-                              "Value": {
-                                "Type": "Boolean",
-                                "Value": true
+                              "value": {
+                                "type": "boolean",
+                                "value": true
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Dictionary",
-                          "Value": [
+                        "value": {
+                          "type": "dictionary",
+                          "value": [
                             {
-                              "Key": "TUV",
-                              "Value": {
-                                "Type": "Boolean",
-                                "Value": true
+                              "key": "TUV",
+                              "value": {
+                                "type": "boolean",
+                                "value": true
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "HexString",
-                          "Value": "<686935>"
+                        "value": {
+                          "type": "hexstring",
+                          "value": "<686935>"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Dictionary",
-                          "Value": [
+                        "value": {
+                          "type": "dictionary",
+                          "value": [
                             {
-                              "Key": "XYZ",
-                              "Value": {
-                                "Type": "Boolean",
-                                "Value": true
+                              "key": "XYZ",
+                              "value": {
+                                "type": "boolean",
+                                "value": true
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Dictionary",
-                          "Value": [
+                        "value": {
+                          "type": "dictionary",
+                          "value": [
                             {
-                              "Key": "AAB",
-                              "Value": {
-                                "Type": "Boolean",
-                                "Value": true
+                              "key": "AAB",
+                              "value": {
+                                "type": "boolean",
+                                "value": true
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "LiteralString",
-                          "Value": "hi10"
+                        "value": {
+                          "type": "literalstring",
+                          "value": "hi10"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Dictionary",
-                          "Value": [
+                        "value": {
+                          "type": "dictionary",
+                          "value": [
                             {
-                              "Key": "AAC",
-                              "Value": {
-                                "Type": "Boolean",
-                                "Value": true
+                              "key": "AAC",
+                              "value": {
+                                "type": "boolean",
+                                "value": true
                               }
                             }
                           ]
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "null"
+                        "value": {
+                          "type": "null"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "HexString",
-                          "Value": "<686936>"
+                        "value": {
+                          "type": "hexstring",
+                          "value": "<686936>"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Boolean",
-                          "Value": true
+                        "value": {
+                          "type": "boolean",
+                          "value": true
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "LiteralString",
-                          "Value": "hi11"
+                        "value": {
+                          "type": "literalstring",
+                          "value": "hi11"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "HexString",
-                          "Value": "<686937>"
+                        "value": {
+                          "type": "hexstring",
+                          "value": "<686937>"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "LiteralString",
-                          "Value": "hi12"
+                        "value": {
+                          "type": "literalstring",
+                          "value": "hi12"
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "Real",
-                          "Value": 0.0
+                        "value": {
+                          "type": "real",
+                          "value": 0.0
                         }
                       },
                       {
-                        "Value": {
-                          "Type": "HexString",
-                          "Value": "<686938>"
+                        "value": {
+                          "type": "hexstring",
+                          "value": "<686938>"
                         }
                       }
                     ]
@@ -1280,376 +1280,376 @@
           ]
         },
         {
-          "Operator": "BT",
-          "Operands": []
+          "operator": "BT",
+          "operands": []
         },
         {
-          "Operator": "Tf",
-          "Operands": [
+          "operator": "Tf",
+          "operands": [
             {
-              "Type": "Name",
-              "Value": "F1"
+              "type": "name",
+              "value": "F1"
             },
             {
-              "Type": "Integer",
-              "Value": 30
+              "type": "integer",
+              "value": 30
             }
           ]
         },
         {
-          "Operator": "Tr",
-          "Operands": [
+          "operator": "Tr",
+          "operands": [
             {
-              "Type": "Integer",
-              "Value": 0
+              "type": "integer",
+              "value": 0
             }
           ]
         },
         {
-          "Operator": "Tm",
-          "Operands": [
+          "operator": "Tm",
+          "operands": [
             {
-              "Type": "Integer",
-              "Value": 1
+              "type": "integer",
+              "value": 1
             },
             {
-              "Type": "Integer",
-              "Value": 0
+              "type": "integer",
+              "value": 0
             },
             {
-              "Type": "Integer",
-              "Value": 0
+              "type": "integer",
+              "value": 0
             },
             {
-              "Type": "Integer",
-              "Value": 1
+              "type": "integer",
+              "value": 1
             },
             {
-              "Type": "Integer",
-              "Value": 10
+              "type": "integer",
+              "value": 10
             },
             {
-              "Type": "Integer",
-              "Value": 950
+              "type": "integer",
+              "value": 950
             }
           ]
         },
         {
-          "Operator": "Tj",
-          "Operands": [
+          "operator": "Tj",
+          "operands": [
             {
-              "Type": "LiteralString",
-              "Value": "PDF compacted syntax sequences according to ISO 32000"
+              "type": "literalstring",
+              "value": "PDF compacted syntax sequences according to ISO 32000"
             }
           ]
         },
         {
-          "Operator": "Tm",
-          "Operands": [
+          "operator": "Tm",
+          "operands": [
             {
-              "Type": "Integer",
-              "Value": 1
+              "type": "integer",
+              "value": 1
             },
             {
-              "Type": "Integer",
-              "Value": 0
+              "type": "integer",
+              "value": 0
             },
             {
-              "Type": "Integer",
-              "Value": 0
+              "type": "integer",
+              "value": 0
             },
             {
-              "Type": "Integer",
-              "Value": 1
+              "type": "integer",
+              "value": 1
             },
             {
-              "Type": "Integer",
-              "Value": 10
+              "type": "integer",
+              "value": 10
             },
             {
-              "Type": "Integer",
-              "Value": 900
+              "type": "integer",
+              "value": 900
             }
           ]
         },
         {
-          "Operator": "Tj",
-          "Operands": [
+          "operator": "Tj",
+          "operands": [
             {
-              "Type": "LiteralString",
-              "Value": "This file must NOT be resaved or modified by any tool!! v3.0"
+              "type": "literalstring",
+              "value": "This file must NOT be resaved or modified by any tool!! v3.0"
             }
           ]
         },
         {
-          "Operator": "ET",
-          "Operands": []
+          "operator": "ET",
+          "operands": []
         },
         {
-          "Operator": "gs",
-          "Operands": [
+          "operator": "gs",
+          "operands": [
             {
-              "Type": "Name",
-              "Value": ""
+              "type": "name",
+              "value": ""
             }
           ]
         },
         {
-          "Operator": "q",
-          "Operands": []
+          "operator": "q",
+          "operands": []
         },
         {
-          "Operator": "w",
-          "Operands": [
+          "operator": "w",
+          "operands": [
             {
-              "Type": "Integer",
-              "Value": 40
+              "type": "integer",
+              "value": 40
             }
           ]
         },
         {
-          "Operator": "re",
-          "Operands": [
+          "operator": "re",
+          "operands": [
             {
-              "Type": "Integer",
-              "Value": 75
+              "type": "integer",
+              "value": 75
             },
             {
-              "Type": "Integer",
-              "Value": 75
+              "type": "integer",
+              "value": 75
             },
             {
-              "Type": "Integer",
-              "Value": 400
+              "type": "integer",
+              "value": 400
             },
             {
-              "Type": "Integer",
-              "Value": 400
+              "type": "integer",
+              "value": 400
             }
           ]
         },
         {
-          "Operator": "W",
-          "Operands": []
+          "operator": "W",
+          "operands": []
         },
         {
-          "Operator": "S",
-          "Operands": []
+          "operator": "S",
+          "operands": []
         },
         {
-          "Operator": "rg",
-          "Operands": [
+          "operator": "rg",
+          "operands": [
             {
-              "Type": "Integer",
-              "Value": 1
+              "type": "integer",
+              "value": 1
             },
             {
-              "Type": "Real",
-              "Value": 0.0
+              "type": "real",
+              "value": 0.0
             },
             {
-              "Type": "Real",
-              "Value": 0.0
+              "type": "real",
+              "value": 0.0
             }
           ]
         },
         {
-          "Operator": "re",
-          "Operands": [
+          "operator": "re",
+          "operands": [
             {
-              "Type": "Integer",
-              "Value": 75
+              "type": "integer",
+              "value": 75
             },
             {
-              "Type": "Integer",
-              "Value": 75
+              "type": "integer",
+              "value": 75
             },
             {
-              "Type": "Integer",
-              "Value": 200
+              "type": "integer",
+              "value": 200
             },
             {
-              "Type": "Integer",
-              "Value": 200
+              "type": "integer",
+              "value": 200
             }
           ]
         },
         {
-          "Operator": "f",
-          "Operands": []
+          "operator": "f",
+          "operands": []
         },
         {
-          "Operator": "rg",
-          "Operands": [
+          "operator": "rg",
+          "operands": [
             {
-              "Type": "Integer",
-              "Value": 0
+              "type": "integer",
+              "value": 0
             },
             {
-              "Type": "Integer",
-              "Value": 1
+              "type": "integer",
+              "value": 1
             },
             {
-              "Type": "Integer",
-              "Value": 0
+              "type": "integer",
+              "value": 0
             }
           ]
         },
         {
-          "Operator": "re",
-          "Operands": [
+          "operator": "re",
+          "operands": [
             {
-              "Type": "Integer",
-              "Value": 275
+              "type": "integer",
+              "value": 275
             },
             {
-              "Type": "Integer",
-              "Value": 75
+              "type": "integer",
+              "value": 75
             },
             {
-              "Type": "Integer",
-              "Value": 200
+              "type": "integer",
+              "value": 200
             },
             {
-              "Type": "Integer",
-              "Value": 200
+              "type": "integer",
+              "value": 200
             }
           ]
         },
         {
-          "Operator": "f",
-          "Operands": []
+          "operator": "f",
+          "operands": []
         },
         {
-          "Operator": "rg",
-          "Operands": [
+          "operator": "rg",
+          "operands": [
             {
-              "Type": "Real",
-              "Value": 0.0
+              "type": "real",
+              "value": 0.0
             },
             {
-              "Type": "Integer",
-              "Value": 0
+              "type": "integer",
+              "value": 0
             },
             {
-              "Type": "Integer",
-              "Value": 1
+              "type": "integer",
+              "value": 1
             }
           ]
         },
         {
-          "Operator": "re",
-          "Operands": [
+          "operator": "re",
+          "operands": [
             {
-              "Type": "Integer",
-              "Value": 275
+              "type": "integer",
+              "value": 275
             },
             {
-              "Type": "Integer",
-              "Value": 275
+              "type": "integer",
+              "value": 275
             },
             {
-              "Type": "Integer",
-              "Value": 200
+              "type": "integer",
+              "value": 200
             },
             {
-              "Type": "Integer",
-              "Value": 200
+              "type": "integer",
+              "value": 200
             }
           ]
         },
         {
-          "Operator": "f",
-          "Operands": []
+          "operator": "f",
+          "operands": []
         },
         {
-          "Operator": "Q",
-          "Operands": []
+          "operator": "Q",
+          "operands": []
         }
       ]
     }
   },
   {
-    "IndirectObjectNumber": 6,
-    "IndirectObject": {
-      "Type": "Dictionary",
-      "Value": [
+    "indirectobjectnumber": 6,
+    "indirectobject": {
+      "type": "dictionary",
+      "value": [
         {
-          "Key": "Type",
-          "Value": {
-            "Type": "Name",
-            "Value": "ExtGState"
+          "key": "Type",
+          "value": {
+            "type": "name",
+            "value": "ExtGState"
           }
         },
         {
-          "Key": "ca",
-          "Value": {
-            "Type": "Real",
-            "Value": 0.33
+          "key": "ca",
+          "value": {
+            "type": "real",
+            "value": 0.33
           }
         },
         {
-          "Key": "CA",
-          "Value": {
-            "Type": "Real",
-            "Value": 0.66
+          "key": "CA",
+          "value": {
+            "type": "real",
+            "value": 0.66
           }
         }
       ]
     }
   },
   {
-    "IndirectObjectNumber": 7,
-    "IndirectObject": {
-      "Type": "Dictionary",
-      "Value": [
+    "indirectobjectnumber": 7,
+    "indirectobject": {
+      "type": "dictionary",
+      "value": [
         {
-          "Key": "Subject",
-          "Value": {
-            "Type": "LiteralString",
-            "Value": "Compacted Syntax v3.0"
+          "key": "Subject",
+          "value": {
+            "type": "literalstring",
+            "value": "Compacted Syntax v3.0"
           }
         },
         {
-          "Key": "Title",
-          "Value": {
-            "Type": "HexString",
-            "Value": "<436f6d7061637465642073796e746178>"
+          "key": "Title",
+          "value": {
+            "type": "hexstring",
+            "value": "<436f6d7061637465642073796e746178>"
           }
         },
         {
-          "Key": "Keywords",
-          "Value": {
-            "Type": "LiteralString",
-            "Value": "PDF,Compacted,Syntax,ISO 32000-2:2020"
+          "key": "Keywords",
+          "value": {
+            "type": "literalstring",
+            "value": "PDF,Compacted,Syntax,ISO 32000-2:2020"
           }
         },
         {
-          "Key": "CreationDate",
-          "Value": {
-            "Type": "LiteralString",
-            "Value": "D:20200317"
+          "key": "CreationDate",
+          "value": {
+            "type": "literalstring",
+            "value": "D:20200317"
           }
         },
         {
-          "Key": "Author",
-          "Value": {
-            "Type": "LiteralString",
-            "Value": "Peter Wyatt"
+          "key": "Author",
+          "value": {
+            "type": "literalstring",
+            "value": "Peter Wyatt"
           }
         },
         {
-          "Key": "Creator",
-          "Value": {
-            "Type": "HexString",
-            "Value": "<48616e642d65646974>"
+          "key": "Creator",
+          "value": {
+            "type": "hexstring",
+            "value": "<48616e642d65646974>"
           }
         },
         {
-          "Key": "Producer",
-          "Value": {
-            "Type": "HexString",
-            "Value": "<48616e642d65646974>"
+          "key": "Producer",
+          "value": {
+            "type": "hexstring",
+            "value": "<48616e642d65646974>"
           }
         }
       ]
